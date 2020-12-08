@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ihtfy.github.io/SoundBoard/",
+  "homepage": "https://ihtfy.github.io/SoundBoard/build/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
